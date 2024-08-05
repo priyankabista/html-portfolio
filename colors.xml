@@ -1,0 +1,36 @@
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="peachpink">#F98B88</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="purple">#FF800080</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="pink">#FFFFC0CB</color>
+    <color name="colorPrimaryDark">#3E4142</color>
+    <color name="brightPink">#FC0FC0</color>
+    <color name="ruby">#E0115F</color>
+    <color name="ultraPink">#FF6FFF</color>
+    <color name="thulian">#DE6FA1</color>
+    <color name="magenta">#FF0090</color>
+    <color name="rosePink">#FF66CC</color>
+    <color name="lavender">#FBAED2</color>
+    <color name="creamyPink">#FF69B4</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="frenchRose">#F64A8A</color>
+    <color name="cerise">#DE3163</color>
+    <color name="carnation">#FFA6C9</color>
+    <color name="brick">#FB607F</color>
+    <color name="amaranth">#F19CBB</color>
+    <color name="taffy">#F987C5</color>
+    <color name="bubbleGum">#FE5BAC</color>
+    <color name="hotPink">#F81894</color>
+    <color name="punch">#EC5578</color>
+    <color name="lemonade">#FDB9C8</color>
+    <color name="flamingo">#FCA3B7</color>
+
+</resources>
